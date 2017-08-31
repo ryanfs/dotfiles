@@ -1,0 +1,9 @@
+[user]
+  name = Ryan F. Salerno
+  email = rfsalerno@gmail.com
+
+[github]
+  user = ryanfs
+
+[core]
+  excludesfile = ~/.gitignore_global
